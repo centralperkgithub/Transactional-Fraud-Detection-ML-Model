@@ -1,5 +1,5 @@
 
-# 💸 Financial Transaction Fraud Detection Model 💸
+# **💸 Financial Transaction Fraud Detection Model 💸**
 
 <img width="1534" height="155" alt="image" src="https://github.com/user-attachments/assets/be8f14d5-a44c-4c77-a79d-13c3cb0b3f9d" />
 
